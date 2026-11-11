@@ -1,0 +1,19 @@
+# LaTeX temporary files
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.out
+*.toc
+
+# Large datasets and checkpoints
+data/
+datasets/
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# Credentials
+.env
