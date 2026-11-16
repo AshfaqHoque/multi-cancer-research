@@ -1,0 +1,12 @@
+torch>=2.4.0
+torchvision>=0.19.0
+mamba-ssm==2.2.2
+causal-conv1d==1.4.0
+kagglehub
+tqdm
+scikit-learn
+matplotlib
+seaborn
+Pillow
+numpy
+torchinfo    
